@@ -9,7 +9,7 @@
 #include "timer.h"
 #include "bluetooth.h"
 
-
+//git test
 int main()
 {
 	USART1_Init(9600);//串口1初始化，波特率设置为9600，语音播报的波特率设置成9600
